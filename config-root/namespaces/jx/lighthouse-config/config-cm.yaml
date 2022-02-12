@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - jenkinsxgitorg/gkejenxvault
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.34.134.181.185.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
